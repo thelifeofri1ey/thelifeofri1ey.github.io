@@ -30,7 +30,7 @@ twitter_username: lifeofri1ey
 github_username:  thelifeofri1ey
 
 # Build settings
-remote_theme: bootstrap-freelancer
+remote_theme: startbootstrap-freelancer
 plugins:
   - jekyll-feed
 
