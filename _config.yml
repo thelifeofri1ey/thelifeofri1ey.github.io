@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: The Life of Riley
 
 # Your name to show in the footer
-author: Some Person
+author: R Gould, 2026
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
